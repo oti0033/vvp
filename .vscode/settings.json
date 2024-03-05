@@ -44,4 +44,5 @@
       "textPreformat.foreground": "#E2BB6A",
     }
   },
+  "remote.autoForwardPortsFallback": 0,
 }
